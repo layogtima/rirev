@@ -7504,7 +7504,7 @@ a.text-dark:hover, a.text-dark:focus {
           line-height: 1.35em; }
 
 .scrolled .navbar, .scrolled.scrolled .navbar {
-  background-color: rgba(0, 0, 0, 0.9);
+  background-color: transparent;
   transition: background-color 200ms ease-in-out; }
   .scrolled .navbar .navbar-brand img, .scrolled.scrolled .navbar .navbar-brand img {
     opacity: 1; }
