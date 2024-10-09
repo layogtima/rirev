@@ -8574,6 +8574,10 @@ body .crisp-client #crisp-chatbox [data-visible="false"] .crisp-x94m06, body .cr
    .clients {
   padding: 4.5em 0; z-index: 0;
   position: absolute; top: 0; opacity: 0.3; transform: scale(1.55) rotate(-35deg); left: 0;
+
+  @media (max-width: 991.98px) {
+    height: 100%;
+  }
 }
 
   @media (max-width: 991.98px) {
